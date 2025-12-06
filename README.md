@@ -1,4 +1,4 @@
-# Kubernetes Study Notes 📚
+# Kubernetes Study Notes 
 
 ## Table of Contents
 1. [What is Kubernetes?](#what-is-kubernetes)
