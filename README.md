@@ -1,4 +1,4 @@
-# Kubernetes.
+# Kubernetes
 
 ## Table of Contents
 1. [What is Kubernetes?](#what-is-kubernetes)
@@ -264,7 +264,6 @@ kubectl delete namespace development
 ---
 
 ## Ingress
-
 **Ingress** manages external access to services, typically HTTP/HTTPS routing.
 
 ### Features:
