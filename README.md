@@ -8,7 +8,7 @@
 5. [Deployment](#deployment)
 6. [ConfigMap & Secrets](#configmap--secrets)
 7. [Namespaces](#namespaces)
-8. [Ingress](#ingress)
+8. [Ingress](#ingress)w
 9. [Volumes & Persistent Volumes](#volumes--persistent-volumes)
 10. [RBAC (Role-Based Access Control)](#rbac-role-based-access-control)
 11. [Monitoring & Logging](#monitoring--logging)
